@@ -13,8 +13,8 @@ Please see links below for my commercial products - PDF Assist, RoboCopy GUI, Ba
 
 |     | Link | Description |
 | ------------- | ------------- | ------------- |
-| ![Free Software](/Assets/free.png) | [Free Software](https://www.pcassistsoftware.co.uk/free.html) ||
-| ![PDF Assist](/Assets/PDF_Assist_Store50x50Logo.png) | [PDF Assist](https://www.pcassistsoftware.co.uk/pdfassist.html) | Fully featured PDF manipulation tool. Annotate, Redact, Merge/Split and much more. |
+| ![Free Software](/Assets/free.png) | [Free Software](https://www.pcassistsoftware.co.uk/free.html) | Various free tools including Shadow Copy Explorer, Windows 10/11 App Remover, DISM Tool and various tools for use in Windows PE/RE.|
+| ![PDF Assist](/Assets/PDF_Assist_Store50x50Logo.png) | [PDF Assist](https://www.pcassistsoftware.co.uk/pdfassist.html) | Fully featured PDF manipulation tool. Annotate, Redact, Merge/Split, Watermark, Convert, Protect and much more. |
 | ![Backup Assist](/Assets/Backup_Assist_Store50x50Logo.png) | [Backup Assist](https://www.pcassistsoftware.co.uk/backupassist.html) | Easily backup your data to an external hard drive using this tool. |
 | ![Essential Office](/Assets/EssentialOffice_Store50x50Logo.png) | [Essential Office](https://www.pcassistsoftware.co.uk/essentialoffice.html) | Fully featured Word Processor, Spreadsheet, Diagram Creator, Calendar and PDF viewer - all in one simple to use application, perfect for those with only basic needs without the cost of buying Microsoft Office. |
 | ![RoboCopy GUI](/Assets/RoboCopy_GUI_Store50x50Logo.png) | [RoboCopy GUI](https://www.pcassistsoftware.co.uk/robocopygui.html) | Visual interface for RoboCopy featuring job queuing, job monitoring, and logging. |
